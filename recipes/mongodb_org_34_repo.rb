@@ -31,7 +31,7 @@ when 'debian'
     distribution 'trusty/mongodb-org/3.4'
     components ['multiverse']
     keyserver 'hkp://keyserver.ubuntu.com:80'
-    key 'EA312927'
+    key 'A15703C6'
     action :add
   end
 
